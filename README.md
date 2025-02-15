@@ -13,6 +13,12 @@ A curated list of papers related to scaling laws for multi-agent systems (MAS).
 * Mixture of Agents ([Paper](https://arxiv.org/abs/2406.04692), [Code](https://github.com/togethercomputer/moa))
 * Internet of Agents ([Paper](https://www.arxiv.org/abs/2407.07061#:~:text=IoA%20represents%20a%20step%20towards,achieve%20greater%20intelligence%20and%20capabilities.), [Code](https://github.com/OpenBMB/IoA))
 * Diversity of Thought Elicits Stronger Reasoning Capabilities in Multi-Agent Debate Frameworks ([Paper](https://arxiv.org/abs/2410.12853v1))
+* Rethinking Mixture-of-Agents: Is Mixing Different Large Language Models Beneficial? ([Paper](https://arxiv.org/abs/2502.00674))
+
+## Multi-agent Reasoning
+
+* Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent ([Paper](https://arxiv.org/abs/2409.11527v2))
+* MALT: Improving Reasoning with Multi-Agent LLM Training ([Paper](https://huggingface.co/papers/2412.01928))
 
 ## Infrastructure
 

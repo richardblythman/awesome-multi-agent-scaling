@@ -20,6 +20,16 @@ A curated list of papers related to scaling laws for multi-agent systems (MAS).
 * Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent ([Paper](https://arxiv.org/abs/2409.11527v2))
 * MALT: Improving Reasoning with Multi-Agent LLM Training ([Paper](https://huggingface.co/papers/2412.01928))
 
+## Automated Agent Generation
+
+* EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms ([Paper](https://arxiv.org/abs/2406.14228))
+* Automated Design of Agentic Systems ([Paper](https://arxiv.org/abs/2408.08435))
+* Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization ([Paper](https://arxiv.org/abs/2310.02170))
+* Gptswarm: Language agents as optimizable graphs ([Paper](https://arxiv.org/abs/2402.16823))
+* Agentverse: Facilitating multi-agent collaboration and exploring emergent behaviors ([Paper](https://arxiv.org/abs/2308.10848))
+* Agent Symbolic Learning: Symbolic learning enables self-evolving agents ([Paper](https://arxiv.org/pdf/2406.18532))
+* Multi-agent Architecture Search via Agentic Supernet ([Paper](https://arxiv.org/abs/2502.04180))
+
 ## Infrastructure
 
 * AgentScope: A Flexible yet Robust Multi-Agent Platform ([Paper](https://arxiv.org/abs/2402.14034), [Code](https://github.com/modelscope/agentscope))

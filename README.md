@@ -36,3 +36,4 @@ A curated list of papers related to scaling laws for multi-agent systems (MAS).
 * Very Large-Scale Multi-Agent Simulation in AgentScope ([Paper](https://arxiv.org/abs/2407.17789))
 * A Scalable Communication Protocol for Networks of Large Language Models ([Paper](https://arxiv.org/abs/2410.11905))
 * AI Metropolis: Scaling Large Language Model-based Multi-Agent Simulation with Out-of-order Execution ([Paper](https://arxiv.org/abs/2411.03519))
+* DAWN: Designing Distributed Agents in a Worldwide Network ([Paper](https://arxiv.org/abs/2410.22339))

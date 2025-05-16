@@ -31,6 +31,7 @@ A curated list of papers related to scaling laws for multi-agent systems (MAS).
 * Agentverse: Facilitating multi-agent collaboration and exploring emergent behaviors ([Paper](https://arxiv.org/abs/2308.10848))
 * Agent Symbolic Learning: Symbolic learning enables self-evolving agents ([Paper](https://arxiv.org/pdf/2406.18532))
 * Multi-agent Architecture Search via Agentic Supernet ([Paper](https://arxiv.org/abs/2502.04180))
+* AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems ([Paper](https://arxiv.org/abs/2504.00587)) 
 
 ## Infrastructure
 

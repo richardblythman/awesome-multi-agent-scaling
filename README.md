@@ -15,6 +15,7 @@ A curated list of papers related to scaling laws for multi-agent systems (MAS).
 * Diversity of Thought Elicits Stronger Reasoning Capabilities in Multi-Agent Debate Frameworks ([Paper](https://arxiv.org/abs/2410.12853v1))
 * Rethinking Mixture-of-Agents: Is Mixing Different Large Language Models Beneficial? ([Paper](https://arxiv.org/abs/2502.00674))
 * CoMM: Collaborative Multi-Agent, Multi-Reasoning-Path Prompting for Complex Problem Solving ([Paper](https://arxiv.org/abs/2404.17729v1))
+* X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs ([Paper](https://arxiv.org/abs/2505.16997))
 
 ## Multi-agent Reasoning
 
